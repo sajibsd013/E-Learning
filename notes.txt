@@ -1,0 +1,20 @@
+Admin: 
+email: elearningpw2@gmail.com
+pass : elearningpw2@gmail.com
+
+
+users:
+email: sajibsd013@gmail.com
+pass : sajibsd013@gmail.com
+
+
+users:
+email: faridachy0011@gmail.com
+pass : faridachy0011@gmail.com
+
+
+users:
+email: nipa1111@gmail.com
+pass : nipa1111@gmail.com
+
+
